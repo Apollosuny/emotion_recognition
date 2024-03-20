@@ -3,6 +3,7 @@
 ## Dependencies
 
 * Python 3, [OpenCV](https://opencv.org/), [Tensorflow](https://www.tensorflow.org/)
+* You should use conda to create environment
 * To install the required packages, run `pip install -r requirements.txt`.
 
 ## Basic Usage
@@ -15,3 +16,7 @@ cd emotion_recognition
 ```
 
 * Download the FER-2013 dataset.
+Change name of dataset folder to data 
+Like this: -- data
+            |-- train
+            |-- test
